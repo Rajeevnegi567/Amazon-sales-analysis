@@ -1,4 +1,3 @@
-# Amazon-sales-analysis
 # Amazon Sales Analysis Dashboard
 
 https://app.powerbi.com/view?r=eyJrIjoiMTExYjI1YmYtZGUwZC00Y2EwLTk5MDUtMjVkODhkOWE5NTQxIiwidCI6ImQyNWI2NTIxLTViZTYtNDAxNC04NDNmLTU4NDRmNDE5YWY3MyJ9
